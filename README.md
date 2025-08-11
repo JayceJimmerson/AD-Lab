@@ -33,7 +33,7 @@ This project is broken down into three distinct phases. Check off items as you c
 * [x] Install the Active Directory Domain Services (AD DS) and DNS roles.
 * [x] **Promote `DC-01` to a Domain Controller for a new forest (`mylab.local`).**
 * [x] In Active Directory, create Organizational Units (OUs) for different departments (e.g., `Staff`, `Admin`).
-* [ ] Create a few test user accounts within the new OUs.
+* [x] Create a few test user accounts within the new OUs.
 * [ ] Build the `CLIENT-01` virtual machine and install Windows 11.
 * [ ] Successfully join `CLIENT-01` to the `mylab.local` domain.
 * [ ] Create and apply a simple Group Policy Object (GPO) to prove domain control (e.g., set the desktop wallpaper on `CLIENT-01`).
