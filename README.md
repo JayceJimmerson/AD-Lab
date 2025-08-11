@@ -35,7 +35,7 @@ This project is broken down into three distinct phases. Check off items as you c
 * [x] In Active Directory, create Organizational Units (OUs) for different departments (e.g., `Staff`, `Admin`).
 * [x] Create a few test user accounts within the new OUs.
 * [x] Build the `CLIENT-01` virtual machine and install Windows 11.
-* [ ] Successfully join `CLIENT-01` to the `mylab.local` domain.
+* [x] Successfully join `CLIENT-01` to the `mylab.local` domain.
 * [ ] Create and apply a simple Group Policy Object (GPO) to prove domain control (e.g., set the desktop wallpaper on `CLIENT-01`).
 
 ### Phase 2: The Hybrid Bridge ("Connecting the Realms")
