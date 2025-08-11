@@ -27,7 +27,7 @@ This project is broken down into three distinct phases. Check off items as you c
 *Goal: Build a stable, self-contained local network that mimics a traditional office setup.*
 
 * [x] Set up the project directory and initialize the Git repository.
-* [ ] In Hyper-V, create the internal `LabNetwork` virtual switch.
+* [x] In Hyper-V, create the internal `LabNetwork` virtual switch.
 * [ ] Build the `DC-01` virtual machine and install Windows Server 2025.
 * [ ] Perform initial server configuration (hostname, static IP).
 * [ ] Install the Active Directory Domain Services (AD DS) and DNS roles.
