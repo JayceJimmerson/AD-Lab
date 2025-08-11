@@ -28,8 +28,8 @@ This project is broken down into three distinct phases. Check off items as you c
 
 * [x] Set up the project directory and initialize the Git repository.
 * [x] In Hyper-V, create the internal `LabNetwork` virtual switch.
-* [ ] Build the `DC-01` virtual machine and install Windows Server 2025.
-* [ ] Perform initial server configuration (hostname, static IP).
+* [x] Build the `DC-01` virtual machine and install Windows Server 2025.
+* [x] Perform initial server configuration (hostname, static IP).
 * [ ] Install the Active Directory Domain Services (AD DS) and DNS roles.
 * [ ] **Promote `DC-01` to a Domain Controller for a new forest (`mylab.local`).**
 * [ ] In Active Directory, create Organizational Units (OUs) for different departments (e.g., `Staff`, `Admin`).
