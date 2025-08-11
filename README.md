@@ -11,7 +11,7 @@ This project contains the scripts and documentation for building a basic AD lab 
 * **Subnet Mask:** 255.255.255.0
 * **Default Gateway:** (None)
 * **DNS Servers:** 127.0.0.1 (itself)
-* **Administrator Password:** P@ssw0rd
+* **Administrator Password:** *Stored securely in password manager*
 
 ### 2. Client Machine (CLIENT-01)
 * **Hostname:** CLIENT-01
@@ -20,4 +20,4 @@ This project contains the scripts and documentation for building a basic AD lab 
 * **Subnet Mask:** 
 * **Default Gateway:** 
 * **DNS Servers:** 10.0.0.10 (DC-01)
-* **Administrator Password:** P@ssw0rd
+* **Administrator Password:** *Stored securely in password manager*
