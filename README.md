@@ -36,7 +36,7 @@ This project is broken down into three distinct phases. Check off items as you c
 * [x] Create a few test user accounts within the new OUs.
 * [x] Build the `CLIENT-01` virtual machine and install Windows 11.
 * [x] Successfully join `CLIENT-01` to the `mylab.local` domain.
-* [ ] Create and apply a simple Group Policy Object (GPO) to prove domain control (e.g., set the desktop wallpaper on `CLIENT-01`).
+* [x] Create and apply a simple Group Policy Object (GPO) to prove domain control (e.g., set the desktop wallpaper on `CLIENT-01`).
 
 ### Phase 2: The Hybrid Bridge ("Connecting the Realms")
 *Goal: Connect the on-premise lab to a cloud tenant, creating a true hybrid identity.*
