@@ -42,9 +42,9 @@ This project is broken down into three distinct phases. Check off items as you c
 *Goal: Connect the on-premise lab to a cloud tenant, creating a true hybrid identity.*
 
 * [x] Sign up for a free Microsoft Azure trial account.
-* [ ] On `DC-01`, download and install the Microsoft Entra ID Connect Sync tool.
-* [ ] Configure the sync tool to connect the local `mylab.local` to the cloud Entra ID tenant.
-* [ ] Verify that the on-premise user accounts have successfully synced and now appear in the Entra ID portal.
+* [x] On `DC-01`, download and install the Microsoft Entra ID Connect Sync tool.
+* [x] Configure the sync tool to connect the local `mylab.local` to the cloud Entra ID tenant.
+* [x] Verify that the on-premise user accounts have successfully synced and now appear in the Entra ID portal.
 
 ### Phase 3: Cloud-Native Exploration ("Mastering the Cloud")
 *Goal: Use the hybrid foundation to safely experiment with modern, cloud-based management tools.*
